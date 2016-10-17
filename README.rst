@@ -18,7 +18,19 @@ will be used to generate the project webpage on PyPI and will be displayed as
 the project homepage on common code-hosting services, and should be written for
 that purpose.
 
+<<<<<<< Updated upstream
 Typical contents for this file would include an overview of the project, basic
 usage examples, etc. Generally, including the project changelog in here is not
 a good idea, although a simple "What's New" section for the most recent version
 may be appropriate.
+=======
+Ou
+
+`git clone https://github.com/igr-santos/choraoipsum.git`
+
+`cd choraoipsum && pip install -r requirements.txt`
+
+Gerar choratim:
+
+`python -m choraoipsum --count 100`
+>>>>>>> Stashed changes
